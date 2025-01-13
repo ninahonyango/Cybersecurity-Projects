@@ -27,5 +27,5 @@ Each project includes **detailed write-ups, screenshots, scripts, and methodolog
 ## 🚀 **How to Use This Repository?**
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/ninahonyango/cybersecProjects.git
-   cd cybersecProjects
+   git clone https://github.com/ninahonyango/cybersecurityProjects.git
+   cd cybersecurityProjects
