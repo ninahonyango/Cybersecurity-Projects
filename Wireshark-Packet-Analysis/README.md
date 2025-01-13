@@ -30,6 +30,6 @@
 - Wireshark is a powerful network analysis tool.
 - Organizations must implement ARP security measures to prevent spoofing attacks in enterprise networks.
 - ARP is a foundational protocol, but it lacks built-in security.
-- Attackers can exploit ARP spoofing to perform Man-in-the-Middle (MITM) attacks.
+- Attackers can exploit ARP spoofing to perform on-path attacks.
 - Implementing security measures like DAI, static ARP tables, and VLAN segmentation can protect networks.
 
