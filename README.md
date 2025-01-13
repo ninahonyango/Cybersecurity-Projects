@@ -1,4 +1,4 @@
-# 🔐 cybersecProjects Repository  
+# 🔐 cybersecurityProjects Repository  
 Welcome to my **Cybersecurity Projects Portfolio**! This repository contains hands-on projects in **network security, penetration testing, vulnerability assessment, and security automation**.  
 
 ## 📂 **Projects Overview**  
