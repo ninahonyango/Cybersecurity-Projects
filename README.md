@@ -8,7 +8,7 @@ Each project includes **detailed write-ups, screenshots, scripts, and methodolog
 |----|--------------|-------------|------------|------|
 | 1️⃣ | [Wireshark Packet Analysis](Wireshark-Packet-Analysis/) | Capturing & analyzing network traffic | Wireshark, TCP/IP, Network Forensics | 🔗 [View Project](Wireshark-Packet-Analysis/) |
 | 2️⃣ | [Firewall Configuration](Firewall-Configuration/) | Setting up and testing firewall rules | iptables, pfSense, Networking | 🔗 [View Project](Firewall-Configuration/) |
-| 3️⃣ | [Vulnerability Scanning](Vulnerability-Scanning/) | Scanning & identifying system vulnerabilities | OpenVAS, Nessus, Security Audits | 🔗 [View Project](Vulnerability-Scanning/) |
+| 3️⃣ | [Vulnerability Scanning](Vulnerability-Scanning/) | Scanning & identifying system vulnerabilities | Splunk, Security Audits | 🔗 [View Project](Vulnerability-Scanning/) |
 | 4️⃣ | [CTF Writeups](CTF-Writeups/) | Solving Capture The Flag challenges | TryHackMe, OverTheWire, Penetration Testing | 🔗 [View Project](CTF-Writeups/) |
 | 5️⃣ | [Password Cracking](Password-Cracking/) | Cracking password hashes with JtR & Hashcat | Cryptography, Ethical Hacking | 🔗 [View Project](Password-Cracking/) |
 
@@ -16,8 +16,8 @@ Each project includes **detailed write-ups, screenshots, scripts, and methodolog
 
 ## 🛠 **Tools & Technologies Used**
 - 🔍 **Network Analysis:** Wireshark, TCPDump  
-- 🔥 **Firewalls & Security:** iptables, pfSense, UFW  
-- 🔎 **Vulnerability Scanning:** Nessus, OpenVAS, Nikto  
+- 🔥 **Firewalls & Security:** pfSense, iptables
+- 🔎 **Vulnerability Scanning:** Splunk, Nessus, OpenVAS, Nikto  
 - 🛡 **Pentesting Tools:** Metasploit, Nmap, Burp Suite  
 - 🔐 **Forensics & Incident Response:** Volatility, Autopsy, Splunk  
 - 📜 **Scripting & Automation:** Bash, Python, PowerShell  
